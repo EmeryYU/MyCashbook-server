@@ -1,0 +1,32 @@
+{
+  "name": "merng",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-link-context": "^1.0.20",
+    "apollo-server": "^2.21.0",
+    "bcryptjs": "^2.4.3",
+    "bootstrap": "^4.6.0",
+    "graphql": "^15.5.0",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.1",
+    "mongo": "^0.1.0",
+    "mongoose": "^5.11.18",
+    "react-bootstrap": "^1.5.1",
+    "react-currency-input": "^1.3.6",
+    "react-currency-input-field": "^3.3.0",
+    "react-datepicker": "^3.6.0",
+    "react-google-charts": "^3.0.15"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
